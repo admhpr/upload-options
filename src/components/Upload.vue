@@ -30,6 +30,7 @@ export default {
         addRemoveLinks: true,
       },
       onlyDicoms: false,
+
       componentKey: 0,
     };
   },
